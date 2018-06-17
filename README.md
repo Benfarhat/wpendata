@@ -29,7 +29,9 @@ Nous allons commencer par créer 3 nouveaux types de données:
 - datasets
 - distributions
     
-    
+Wordpress possède déja les types: post, page, attachement, revision et menu
+
+
     
     
     
